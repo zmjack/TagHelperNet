@@ -1,7 +1,7 @@
 # TagHelperNet
 Using TagHelperNet to help you develop your projects quickly.
 
-Simple 1: MathJax
+Sample 1: MathJax
 ```HTML
 <import-MathJax config="Recommand"></import-MathJax>
 <p>
@@ -10,7 +10,7 @@ Simple 1: MathJax
 </p>
 ```
 
-Simple 2: SyntaxHighlighter
+Sample 2: SyntaxHighlighter
 ```HTML
 <import-SyntaxHighlighter></import-SyntaxHighlighter>
 
@@ -25,7 +25,7 @@ public class Program
 </code>
 ```
 
-Simple 3: Bootstrap's modal
+Sample 3: Bootstrap's modal
 ```HTML
 <bs-modal id="default_modal">
     <-title>Here is a title</-title>
