@@ -2,18 +2,19 @@
 Using TagHelperNet to help you develop your projects quickly.
 
 Simple 1: MathJax
+```HTML
 <import-MathJax config="Recommand"></import-MathJax>
 <p>
     When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
     $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 </p>
-
+```
 
 Simple 2: SyntaxHighlighter
+```HTML
 <Import-SyntaxHighlighter></Import-SyntaxHighlighter>
 
 <code np-language="CSharp">
-<pre>
 public class Program
 {
     public static void Main(string[] args)
@@ -21,11 +22,11 @@ public class Program
         Console.WriteLine("Hello World");
     }
 }
-</pre>
 </code>
-
+```
 
 Simple 3: Bootstrap's modal
+```HTML
 <bs-modal id="default_modal">
     <-title>Here is a title</-title>
     <-content>
@@ -37,3 +38,4 @@ Simple 3: Bootstrap's modal
     </-footer>
 </bs-modal>
 <button type="button" data-toggle="modal" data-target="#default_modal">S</button>
+```
