@@ -15,6 +15,7 @@ Sample 2: SyntaxHighlighter
 <import-SyntaxHighlighter></import-SyntaxHighlighter>
 
 <code np-language="CSharp">
+<pre>
 public class Program
 {
     public static void Main(string[] args)
@@ -22,6 +23,7 @@ public class Program
         Console.WriteLine("Hello World");
     }
 }
+</pre>
 </code>
 ```
 
