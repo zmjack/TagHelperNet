@@ -12,7 +12,7 @@ Simple 1: MathJax
 
 Simple 2: SyntaxHighlighter
 ```HTML
-<Import-SyntaxHighlighter></Import-SyntaxHighlighter>
+<import-SyntaxHighlighter></import-SyntaxHighlighter>
 
 <code np-language="CSharp">
 public class Program
