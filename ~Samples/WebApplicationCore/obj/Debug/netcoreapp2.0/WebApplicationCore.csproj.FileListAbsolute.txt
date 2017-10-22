@@ -1,0 +1,13 @@
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\bin\Debug\netcoreapp2.0\WebApplicationCore.deps.json
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\bin\Debug\netcoreapp2.0\WebApplicationCore.runtimeconfig.json
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\bin\Debug\netcoreapp2.0\WebApplicationCore.runtimeconfig.dev.json
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\bin\Debug\netcoreapp2.0\WebApplicationCore.dll
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\bin\Debug\netcoreapp2.0\WebApplicationCore.pdb
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\bin\Debug\netcoreapp2.0\TagHelperNet.dll
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\bin\Debug\netcoreapp2.0\TagHelperNet.pdb
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\obj\Debug\netcoreapp2.0\WebApplicationCore.csprojResolveAssemblyReference.cache
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\obj\Debug\netcoreapp2.0\WebApplicationCore.csproj.CoreCompileInputs.cache
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\obj\Debug\netcoreapp2.0\WebApplicationCore.AssemblyInfoInputs.cache
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\obj\Debug\netcoreapp2.0\WebApplicationCore.AssemblyInfo.cs
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\obj\Debug\netcoreapp2.0\WebApplicationCore.dll
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\WebApplicationCore\obj\Debug\netcoreapp2.0\WebApplicationCore.pdb

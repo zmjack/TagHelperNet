@@ -1,0 +1,54 @@
+﻿@{
+
+}
+
+<script src="http://taghelper.net/libs/angular/1.6.6"></script>
+
+<div ng-app="app">
+    <div ng-controller="default">
+        <input type="button" ng-click="angular_post()" value="angular提交" />
+        <input type="button" ng-click="jquery_post()" value="jquery提交" />
+    </div>
+</div>
+
+<script>
+    angular.module('app', []);
+    var app = angular.module('app');
+
+    app.controller('default', function ($scope, $http) {
+
+        $scope.angular_post = function () {
+
+            $http({
+                method: 'post',
+                url: '/Home/angular',
+                data: { data: 'OK' },
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                transformRequest: function (obj) {
+                    var str = [];
+                    for (var p in obj) {
+                        str.push(encodeURIComponent(p) + "=" + encodeURIComponent(obj[p]));
+                    }
+                    return str.join("&");
+                }
+            }).then(function (response) {
+                console.log(response);
+            }, function () {
+                console.log('failed');
+            });
+        }
+
+        $scope.jquery_post = function () {
+
+            $.ajax({
+                type: 'post',
+                url: '/Home/jquery',
+                data: { data: 'OK' }
+            }).success(function (response) {
+                console.log(response);
+            }).fail(function (response) {
+                console.log('failed');
+            });
+        }
+    })
+</script>
