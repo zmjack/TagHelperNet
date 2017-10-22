@@ -1,0 +1,8 @@
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\bin\Release\netcoreapp2.0\TagHelperNet.deps.json
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\bin\Release\netcoreapp2.0\TagHelperNet.dll
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\bin\Release\netcoreapp2.0\TagHelperNet.pdb
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\obj\Release\netcoreapp2.0\TagHelperNet.csproj.CoreCompileInputs.cache
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\obj\Release\netcoreapp2.0\TagHelperNet.AssemblyInfoInputs.cache
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\obj\Release\netcoreapp2.0\TagHelperNet.AssemblyInfo.cs
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\obj\Release\netcoreapp2.0\TagHelperNet.dll
+D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\obj\Release\netcoreapp2.0\TagHelperNet.pdb

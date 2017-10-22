@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TagHelperNet</id>
+    <version>1.0.1</version>
+    <authors>taghelper.net</authors>
+    <owners>taghelper.net</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Using TagHelperNet to help you develop projects quickly.</description>
+    <copyright>taghelper.net</copyright>
+    <repository url="https://github.com/zmjack/TagHelperNet" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.AspNetCore.All" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\TFS Projects\zmland.com\OpenSources\taghelper.net\taghelper.net\TagHelperNet\bin\Debug\netcoreapp2.0\TagHelperNet.dll" target="lib\netcoreapp2.0\TagHelperNet.dll" />
+  </files>
+</package>
